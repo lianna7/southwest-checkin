@@ -40,7 +40,6 @@
   },
   "addons": [
     "rediscloud:30",
-    "heroku-postgresql",
-    "mandrill:starter"
+    "heroku-postgresql"
   ]
 }
